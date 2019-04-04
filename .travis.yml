@@ -1,5 +1,5 @@
 language: python
-arch: ppc64le
+arch: ppc64
 dist: xenial
 
 script: 
