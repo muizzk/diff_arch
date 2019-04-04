@@ -5,3 +5,4 @@ dist: xenial
 script: 
 - lsb_release
 - uname -a
+- python -c 'import sys; print(sys.byteorder)'
