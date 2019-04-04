@@ -1,0 +1,7 @@
+language: python
+arch: ppc64le
+dist: xenial
+
+script: 
+- lsb_release
+- uname -a
